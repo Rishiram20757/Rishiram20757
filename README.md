@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishiram b
-- 👀 I’m interested in coding,gaming and technologies.
+- 👀 I’m interested in coding , web development , data analysis and machine learning.
 - 🌱 I’m currently learning  artificial intelligence and machine learning.
-- 💞️ I’m looking to collaborate on website developments, any other projects.
+- 💞️ I’m looking to collaborate on website developments, any other data science and AI-ML oriented projects.
 - 📫 contact me : rishiram20757@gmail.com , rb2669@srmist.edu.in , discord : IRON 11 #rr_11
 
 <!---
